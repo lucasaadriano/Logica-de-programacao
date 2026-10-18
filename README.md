@@ -1,5 +1,4 @@
 # Lógica de Programação
-# Lógica de Programação
 
 Este repositório tem como objetivo organizar as anotações e os conteúdos estudados na disciplina de Lógica de Programação durante a graduação em Ciência da Computação.
 
