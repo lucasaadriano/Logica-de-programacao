@@ -1,5 +1,3 @@
-# If, elif e else
-
 - O `if` (se) executa um bloco de código somente se a condição for verdadeira (`True`). Se for falsa (`False`), o bloco é ignorado.
 - Depois da condição vem sempre dois pontos (`:`) e o bloco seguinte precisa estar **indentado** (4 espaços). É a indentação que mostra o que pertence ao `if`.
 
